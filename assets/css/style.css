@@ -241,6 +241,7 @@ input[type=submit] {
 @media screen and (max-width: 768px){
   body {
     background-color: lightgrey;
+    height: 100%;
   }
   .wrapper{
     width: 600px;
@@ -248,6 +249,7 @@ input[type=submit] {
 }@media screen and (max-width: 980px){
   body {
     background-color: lightgrey;
+    height: 100%;
   }
   .wrapper {
     width: 800px;
@@ -255,6 +257,7 @@ input[type=submit] {
 }@media screen and (max-width: 640px){
   body {
     background-color: lightgrey;
+    height: 100%;
   }
   .wrapper {
     width: 500px;
