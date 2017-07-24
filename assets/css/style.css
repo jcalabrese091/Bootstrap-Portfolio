@@ -76,10 +76,10 @@ h3 {
   text-decoration: none;
   background: #4aaaa5;
 }
-
 nav {
   float: right;
   margin-top: 25px;
+  color: #4aaaa5;
 }
 
 nav a {
@@ -87,13 +87,14 @@ nav a {
   padding-left: 15px;
   margin-left: 15px;
   line-height: 18px;
-  color: #999;
+  color: #4aaaaf;
   text-decoration: none;
   border-left: 1px solid #efefef;
 }
 
 nav a:first-child {
   border-left: 0 none;
+  color: #4aaaa5;
 }
 
 /* footer */
@@ -259,4 +260,10 @@ input[type=submit] {
 img {
     width: 100%;
     height: auto;
+}
+* {
+    box-sizing: border-box;
+}
+header{
+  position: static;
 }
