@@ -278,7 +278,10 @@ iframe {
   width: 100%;
   max-width: 650px;
   padding: 30px;
-  margin: 0 0 40px;
+  margin-left: 200px;
+  margin-top: 130px;
+  margin-bottom: 50px;
+}
   background: #fff;
   border: 1px solid #ddd;
 }
